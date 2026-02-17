@@ -1,0 +1,11 @@
+Physician: Hello, how are you feeling today?
+
+Patient: I'm not feeling well. I have a headache and nausea.
+
+Physician: How long have you had these symptoms?
+
+Patient: For about two days now.
+
+Physician: Any other symptoms?
+
+Patient: I've been feeling dizzy as well.
