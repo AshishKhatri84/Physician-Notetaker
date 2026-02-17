@@ -47,8 +47,7 @@ All outputs are combined into a single structured JSON object.
 
 .
 ├── code file.py
-├── sample.txt        (optional)
-├── sample.docx       (optional)
+├── sample transcript.txt        (optional)
 └── README.md
 
 ---
@@ -69,10 +68,6 @@ All outputs are combined into a single structured JSON object.
 Run the script using a transcript file:
 
 python code\ file.py --file path/to/transcript.txt
-
-or
-
-python code\ file.py --file path/to/transcript.docx
 
 ---
 
